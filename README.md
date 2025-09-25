@@ -1,5 +1,5 @@
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&descAlignY=49&descAlign=51&fontColor=C06C84">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=F71945&descAlignY=49&descAlign=51&fontColor=white">
   <img width="500" src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=25&pause=1000&color=F72A61&width=435&lines=Welcome+to+my+Journey!!!;To+become+a+Security+Engineer">
 </div>
 
